@@ -1,0 +1,8 @@
+# start a new git repo from scratch
+git init
+
+# create a commit aka save point in our project
+git add filename filename
+git commit --message 'meaninful message'
+git commit -m 'meaninful message'
+git push origin master/main
