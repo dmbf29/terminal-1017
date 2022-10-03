@@ -1,0 +1,42 @@
+pwd
+=> shows where you are
+
+ls / ll
+=> shows content of folder
+
+cd folder_name
+=> moved into a folder
+
+cd ..
+=> to move back into a folder
+
+mkdir folder_name
+=> create a folder
+
+touch file.ext
+=> create a file
+
+code .
+=> opens vs code in the current folder
+
+mv filename folder_name
+=> move file
+
+mv filename new_filename
+=> change the name
+
+rm filename
+rm -f filename
+=> remove filename
+
+rm -r folder_name
+rm -rf folder_name
+=> remove folder
+
+=> opens folder in Finder
+(mac)
+open .
+(windows)
+start .
+explorer.exe .
+wslview .
